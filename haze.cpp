@@ -37,5 +37,5 @@ int main()
 	{
 		dfs(0,i);
 	}
-	printf("%ld",clock()-a);
+	printf("%ld.Lower is better.\n",clock()-a);
 }
